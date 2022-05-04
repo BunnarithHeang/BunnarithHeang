@@ -1,4 +1,4 @@
-Hi 👋 My name is Bunnarith Heang ================================  Mobile & Web Developer ----------------------  Flutter Developer. Passionate about Mobile & Web development, Deep Learning, Data Science  * 🌍  I'm based in Cambodia 🇰🇭 * ✉️  You can contact me at [heangbunnarith@gmail.com](mailto:heangbunnarith@gmail.com) * 🧠  I'm learning VueJS, NuxtJS
+Hi 👋 My name is Bunnarith Heang ================================  Mobile & Web Developer ----------------------. Passionate about Mobile & Web development, Deep Learning, Data Science  * 🌍  I'm based in Cambodia 🇰🇭 * ✉️  You can contact me at [heangbunnarith@gmail.com](mailto:heangbunnarith@gmail.com) * 🧠  I'm learning VueJS, NuxtJS
 
 ### Skills
 
