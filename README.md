@@ -1,7 +1,7 @@
 Hi 👋 My name is Bunnarith Heang ================================  Mobile & Web Developer ----------------------. Passionate about Mobile & Web development, Deep Learning, Data Science  * 🌍  I'm based in Cambodia 🇰🇭 * ✉️  You can contact me at [heangbunnarith@gmail.com](mailto:heangbunnarith@gmail.com) * 🧠  I'm learning VueJS, NuxtJS
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=pisethx.pisethx)
-[![Github](https://img.shields.io/github/followers/pisethx?label=Follow&style=social)](https://github.com/pisethx)
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=bunnarith.heang)
+[![Github](https://img.shields.io/github/followers/BunnarithHeang?label=Follow&style=social)](https://github.com/BunnarithHeang)
 
 ### Skills
 
